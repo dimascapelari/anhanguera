@@ -1,3 +1,8 @@
+h1 {
+  text-align: center;
+  background-color: #ccc;
+}
+
 #desenho {
   border: 2px solid #ccc;
 }
